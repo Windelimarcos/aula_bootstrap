@@ -7,5 +7,17 @@
 }
 
 .margin {
-    padding-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: lightsteelblue;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding-bottom: 10px;
 }
